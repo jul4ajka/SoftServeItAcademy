@@ -82,12 +82,14 @@ ul li a:hover {
   
 .experiance-columns {
     columns: 200px 3;
-    height: 700px;
+    height: auto;
 }  
   
 h1 {
-    font-family: 'Lato', sans-serif; 
-    color: #383a3d;
+	font-family: 'Lato', sans-serif;
+	color: #383a3d;
+	margin-top: 0;
+	margin-bottom: 10px;
 }
    
 p {

@@ -1,7 +1,7 @@
 var images = [
-  "images/html-course.jpeg", 
-  "images/css-course.jpeg", 
-  "images/javascript-course.jpeg"
+  "../images/html-course.jpeg", 
+  "../images/css-course.jpeg", 
+  "../images/javascript-course.jpeg"
   ];
   var num = 0;
 

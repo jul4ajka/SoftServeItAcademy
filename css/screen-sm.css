@@ -97,11 +97,11 @@ table {
 }
 
 .web-developer {
-    font-family: 'Lato', sans-serif;
-    height:370px;
-    width: 700px;
-    margin-left: 10px;
-    float: left;
+	font-family: 'Lato', sans-serif;
+	height: auto;
+	width: 640px;
+	margin-left: 45px;
+	float: left;
 }
 
 hr {
